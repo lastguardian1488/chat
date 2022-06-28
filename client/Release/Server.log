@@ -1,0 +1,6 @@
+﻿  Server.cpp
+Server.obj : error LNK2001: неразрешенный внешний символ _mysql_real_connect@32.
+Server.obj : error LNK2001: неразрешенный внешний символ _mysql_close@4.
+Server.obj : error LNK2001: неразрешенный внешний символ _mysql_init@4.
+Server.obj : error LNK2001: неразрешенный внешний символ _mysql_error@4.
+D:\Programming\C++\Univesity\Projects\Summer_practice_chat\Server\Release\Server.exe : fatal error LNK1120: неразрешенных внешних элементов: 4
